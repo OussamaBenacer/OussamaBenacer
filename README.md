@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**OussamaBenacer/OussamaBenacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on: `Your current projects or skills`
+- 🌱 I’m learning: `Skills you're learning`
+- 💬 Ask me about: `Your areas of expertise`
+- 📫 How to reach me: [Your email or LinkedIn](#)
+- ⚡ Fun fact: `Something interesting about you`
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Programming languages, tools, or frameworks you use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Project 1](#): Short description
+- [Project 2](#): Short description
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaBenacer&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaBenacer&layout=compact)
+
+## 🌐 Connect with Me
+- [LinkedIn](#)
+- [Portfolio](https://oussamabenacer.netlify.app)
