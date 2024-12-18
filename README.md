@@ -1,5 +1,8 @@
 # Hi there! 👋
 
+![Contribution Graph](https://github.com/OussamaBenacer/OussamaBenacer/blob/main/github-contribution-grid-snake.svg)
+
+
 ## About Me
 - 🔭 I’m currently working on: `Your current projects or skills`
 - 🌱 I’m learning: `Skills you're learning`
