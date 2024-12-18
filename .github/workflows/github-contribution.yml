@@ -1,0 +1,25 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once every day
+  push:
+    branches:
+      - main
+    # Or any other branch you're working on
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push Snake image
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "Oussama BENACER"
+          author_email: "o_benacer@estin.dz"
+          message: "Generate contribution snake"
