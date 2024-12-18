@@ -8,7 +8,7 @@
 
 <div align="center">
  
-👨‍💻  I'm a 2nd-year Computer Science student at ESTIN.  
+🏫  I'm a 2nd-year Computer Science student at ESTIN.  
 💻  Passionate about Frontend Web Development and currently working with React.  
 🌱  Exploring SEO techniques and ways to optimize frontend performance.  
 📫  Always open to new opportunities and collaboration in the tech field.  
